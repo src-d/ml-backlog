@@ -28,6 +28,14 @@ The title format is:
 Please note:
 
 - Square brackets
+- Topic starts with a lowercase letter
 - Whitespace after the topic
-- Objective starts with a capital letter
+- Objective starts with an uppercase letter
 - No dot in the end
+
+### Standard topics
+
+- EPIC codename or title
+- `[research]`
+- `[code]` for any maintenance or cross-project refactoring
+- `[dataset]`
