@@ -40,3 +40,13 @@ Please note:
 - `[code]` for any maintenance or cross-project refactoring
 - `[dataset]`
 - `[idea]` for proposals which are specific to ML and do not fit into [feature-idea](https://github.com/src-d/feature-idea)
+
+### Minutes scribe order
+
+- Konst
+- Vadim
+- Hugo
+- Egor
+- Waren
+- Irina
+- Jan
