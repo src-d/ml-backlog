@@ -41,12 +41,22 @@ Please note:
 - `[dataset]`
 - `[idea]` for proposals which are specific to ML and do not fit into [feature-idea](https://github.com/src-d/feature-idea)
 
-### Minutes scribe order
+### Research team
 
-- Konst
-- Vadim
+Catchup at 11am, scribes:
+
 - Hugo
 - Egor
 - Waren
-- Irina
 - Jan
+- Vadim
+
+### Production team
+
+Catchup at 12am, scribes:
+
+- Konst
+- Irina
+- Guillem
+- Tristan
+- Vadim
