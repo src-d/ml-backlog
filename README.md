@@ -45,11 +45,12 @@ Please note:
 
 Catchup at 11am, scribes:
 
-- Hugo
 - Egor
-- Waren
-- Jan
+- Hugo
+- Romain
+- Tristan
 - Vadim
+- Waren
 
 ### Production team
 
@@ -58,5 +59,4 @@ Catchup at 12am, scribes:
 - Konst
 - Irina
 - Guillem
-- Tristan
 - Vadim
