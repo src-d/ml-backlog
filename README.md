@@ -48,7 +48,6 @@ Catchup at 11am, scribes:
 - Egor
 - Hugo
 - Romain
-- Tristan
 - Vadim
 - Waren
 
