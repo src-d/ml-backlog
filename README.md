@@ -55,7 +55,6 @@ Catchup at 11am, scribes:
 
 Catchup at 12am, scribes:
 
-- Konst
 - Irina
 - Guillem
 - Vadim
